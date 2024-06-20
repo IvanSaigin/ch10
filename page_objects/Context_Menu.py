@@ -17,7 +17,7 @@ class Context_Menu(BasePage):
         self.element(self.CLICK_Context_Menu).click()
 
         ActionChains(self.driver)\
-        .click_and_hold(self.CLICK_dotted_square)\
+        .context_click(self.element(self.CLICK_dotted_square))\
         .perform()
 
 

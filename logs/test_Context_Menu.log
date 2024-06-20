@@ -10,3 +10,24 @@ INFO ===> Test test_Context_Menu finished at 2024-06-20 21:29:02.505073
 INFO ===> Test test_Context_Menu started at 2024-06-20 21:43:25.190343
 INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="3de5adf7-a55c-4649-8aaa-85c554dc162a")> started
 INFO ===> Test test_Context_Menu finished at 2024-06-20 21:43:39.490934
+INFO ===> Test test_Context_Menu started at 2024-06-20 21:52:37.732596
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="69e4459a-29f1-497f-8d74-6b5ffd8a496c")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 21:52:52.163674
+INFO ===> Test test_Context_Menu started at 2024-06-20 21:58:13.509716
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e80a9283-21f6-43e6-86cd-3ea2d7d1b6c5")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 21:58:27.699242
+INFO ===> Test test_Context_Menu started at 2024-06-20 22:08:04.408447
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="44a2ffcd-2517-4c28-8e00-ffd34f84dda7")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 22:08:19.440292
+INFO ===> Test test_Context_Menu started at 2024-06-20 22:10:49.986232
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e6806bbe-5bdf-4a90-bcf3-eb4645fb04d0")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 22:11:05.456015
+INFO ===> Test test_Context_Menu started at 2024-06-20 22:12:10.121986
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="e0333875-b2d0-4860-aa25-8c9d12ee97cb")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 22:12:25.128721
+INFO ===> Test test_Context_Menu started at 2024-06-20 22:18:26.611186
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="23148db9-91ed-4af6-a278-69059fb7e1eb")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 22:18:42.414604
+INFO ===> Test test_Context_Menu started at 2024-06-20 22:19:58.733194
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="f49f8189-7d0f-46c1-bfc8-285d2fdd4164")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 22:20:14.004313

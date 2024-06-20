@@ -7,7 +7,7 @@ class Challenging_DOM(BasePage):
 
     
 
-    CLICK_FOO = (By.CSS_SELECTOR, "#cefd2830-1161-013d-a454-4a518a7cafb9")
+    CLICK_FOO = (By.CSS_SELECTOR, ".button.success")
     CHEK_CANVAS = (By.CSS_SELECTOR, "#canvas")
     CLICK_Drag_and_Drop = (By.CSS_SELECTOR, "#content > ul > li:nth-child(5) > a")
 

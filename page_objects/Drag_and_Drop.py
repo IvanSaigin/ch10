@@ -21,7 +21,7 @@ class Drag_and_Drop(BasePage):
         first_name_scuare = self.element(self.SELECTED_left_scuare).text
 
         action_chains = ActionChains(self.driver)
-        action_chains.drag_and_drop(self.CLICK_left_scuare, self.CLICK_right_scuare).perform()
+        action_chains.drag_and_drop(self.element(self.CLICK_left_scuare), self.element(self.CLICK_right_scuare)).perform()
 
         second_name_scuare = self.element(self.SELECTED_left_scuare).text
         

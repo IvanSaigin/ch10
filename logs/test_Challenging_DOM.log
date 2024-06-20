@@ -10,3 +10,15 @@ INFO ===> Test test_Challenging_DOM finished at 2024-06-20 21:28:09.298707
 INFO ===> Test test_Challenging_DOM started at 2024-06-20 21:42:46.231084
 INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="7a617151-f186-456a-b3dc-40de696b8c36")> started
 INFO ===> Test test_Challenging_DOM finished at 2024-06-20 21:43:06.540661
+INFO ===> Test test_Challenging_DOM started at 2024-06-20 21:51:59.488595
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="46e544d8-72cc-40d0-ac03-9c5529dc8639")> started
+INFO ===> Test test_Challenging_DOM finished at 2024-06-20 21:52:19.210448
+INFO ===> Test test_Challenging_DOM started at 2024-06-20 21:57:34.671397
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="6ec5b263-3c59-48ad-af2f-e170383fbef1")> started
+INFO ===> Test test_Challenging_DOM finished at 2024-06-20 21:57:55.081795
+INFO ===> Test test_Challenging_DOM started at 2024-06-20 21:59:54.816678
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="86a91344-7f58-409d-8afd-da5b5906a3e3")> started
+INFO ===> Test test_Challenging_DOM finished at 2024-06-20 22:00:17.465880
+INFO ===> Test test_Challenging_DOM started at 2024-06-20 22:07:24.720812
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="3f202359-1921-4cce-8916-aafe70fbeda9")> started
+INFO ===> Test test_Challenging_DOM finished at 2024-06-20 22:07:40.908762
