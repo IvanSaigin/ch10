@@ -1,0 +1,6 @@
+INFO ===> Test test_Dynamic_Loading started at 2024-06-20 18:57:04.770175
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="f8830712-36e2-416f-8dad-3ab4914edbf8")> started
+INFO ===> Test test_Dynamic_Loading finished at 2024-06-20 18:57:27.915511
+INFO ===> Test test_Dynamic_Loading started at 2024-06-20 21:09:02.660862
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="4321c8d3-5b70-40e3-a248-8646dbaa4524")> started
+INFO ===> Test test_Dynamic_Loading finished at 2024-06-20 21:09:26.094840

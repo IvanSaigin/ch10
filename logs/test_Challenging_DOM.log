@@ -1,0 +1,6 @@
+INFO ===> Test test_Challenging_DOM started at 2024-06-20 18:55:52.761049
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="782a4cd8-d901-4275-b8fe-bbaa5fc24bf7")> started
+INFO ===> Test test_Challenging_DOM finished at 2024-06-20 18:56:18.490551
+INFO ===> Test test_Challenging_DOM started at 2024-06-20 21:08:01.930537
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="f88a2f58-15a0-4e8f-b950-2048164dad25")> started
+INFO ===> Test test_Challenging_DOM finished at 2024-06-20 21:08:18.764987

@@ -1,0 +1,6 @@
+INFO ===> Test test_Drag_and_Drop started at 2024-06-20 18:56:18.493534
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="1d05d12d-c0bd-4c2e-83db-556ee2e0186a")> started
+INFO ===> Test test_Drag_and_Drop finished at 2024-06-20 18:56:33.774023
+INFO ===> Test test_Drag_and_Drop started at 2024-06-20 21:08:18.768729
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="fb8ed683-ecfb-4e63-b098-5e27845d7e8c")> started
+INFO ===> Test test_Drag_and_Drop finished at 2024-06-20 21:08:33.236451

@@ -1,0 +1,6 @@
+INFO ===> Test test_Context_Menu started at 2024-06-20 18:56:49.906210
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="aa905e26-998c-4f1d-afa5-c6dc8064d146")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 18:57:04.768174
+INFO ===> Test test_Context_Menu started at 2024-06-20 21:08:48.473860
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="9023a182-2174-4a90-a69e-2651981c9725")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 21:09:02.659867
