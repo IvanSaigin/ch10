@@ -20,6 +20,5 @@ class Dropdown(BasePage):
         self.element(self.CLICK_Dropdown_option).click()
 
         second = self.element(self.SELECTED_dropdown_menu).text
-        driver.quit()
         
         return first,second

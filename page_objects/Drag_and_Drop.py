@@ -20,10 +20,9 @@ class Drag_and_Drop(BasePage):
         self.element(self.CLICK_Drag_and_Drop).click()
         first_name_scuare = self.element(self.SELECTED_left_scuare).text
 
-        action_chains = ActionChains(driver)
+        action_chains = ActionChains(self.driver)
         action_chains.drag_and_drop(self.CLICK_left_scuare, self.CLICK_right_scuare).perform()
 
         second_name_scuare = self.element(self.SELECTED_left_scuare).text
-        browser.quit()
         
-        return first,second
+        return first_name_scuare,second_name_scuare

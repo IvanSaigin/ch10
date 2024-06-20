@@ -4,3 +4,6 @@ INFO ===> Test test_Dropdown finished at 2024-06-20 18:56:49.904212
 INFO ===> Test test_Dropdown started at 2024-06-20 21:08:33.239336
 INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="90f2bb29-bb76-4b2a-80fb-088e9afd94b3")> started
 INFO ===> Test test_Dropdown finished at 2024-06-20 21:08:48.470847
+INFO ===> Test test_Dropdown started at 2024-06-20 21:28:23.769896
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="c384a143-6f5b-4a12-b9e4-75c3339cb54b")> started
+INFO ===> Test test_Dropdown finished at 2024-06-20 21:28:39.483073

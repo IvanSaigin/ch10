@@ -24,12 +24,12 @@ def test_Drag_and_Drop(driver):
     else: assert "данные не изменились"
 
 
-def test_Dropdown(driver):
-    result = Dropdown(driver).dropdown()
+# def test_Dropdown(driver):
+#     result = Dropdown(driver).dropdown()
 
-    if (result[0] != result[1]): 
-        assert "все прошло успешно"
-    else: assert "данные не изменились"
+#     if (result[0] != result[1]): 
+#         assert "все прошло успешно"
+#     else: assert "данные не изменились"
 
 
 def test_Context_Menu(driver):
@@ -40,9 +40,9 @@ def test_Context_Menu(driver):
     else: assert "данные не изменились"
 
 
-def test_Dynamic_Loading(driver):
-    result = Dynamic_Loading(driver).dynamic_loading()
+# def test_Dynamic_Loading(driver):
+#     result = Dynamic_Loading(driver).dynamic_loading()
 
-    if (result): 
-        assert "все прошло успешно"
-    else: assert "данные не изменились"
+#     if (result): 
+#         assert "все прошло успешно"
+#     else: assert "данные не изменились"

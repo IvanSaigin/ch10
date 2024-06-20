@@ -20,6 +20,5 @@ class Dynamic_Loading(BasePage):
         time.sleep(8)
 
         text = self.element(self.SELECTED_text).text
-        driver.quit()
 
         return text

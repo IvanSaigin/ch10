@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver import ActionChains
+from selenium.webdriver.support.wait import WebDriverWait
 
 from page_objects.BasePage import BasePage
 import time
@@ -15,18 +16,16 @@ class Context_Menu(BasePage):
 
         self.element(self.CLICK_Context_Menu).click()
 
-        ActionChains(driver)\
+        ActionChains(self.driver)\
         .click_and_hold(self.CLICK_dotted_square)\
         .perform()
 
 
 
-        wait = WebDriverWait(driver, timeout=2)
+        wait = WebDriverWait(self.driver, timeout=2)
         alert = wait.until(lambda d : d.switch_to.alert)
         text = alert.text
         alert.accept()
-
-        browser.quit()
 
         return text
 

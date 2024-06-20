@@ -4,3 +4,9 @@ INFO ===> Test test_Context_Menu finished at 2024-06-20 18:57:04.768174
 INFO ===> Test test_Context_Menu started at 2024-06-20 21:08:48.473860
 INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="9023a182-2174-4a90-a69e-2651981c9725")> started
 INFO ===> Test test_Context_Menu finished at 2024-06-20 21:09:02.659867
+INFO ===> Test test_Context_Menu started at 2024-06-20 21:28:43.539036
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="a56b051c-8b2c-4d96-a81b-1d8b6cfa70e3")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 21:29:02.505073
+INFO ===> Test test_Context_Menu started at 2024-06-20 21:43:25.190343
+INFO Browser <selenium.webdriver.firefox.webdriver.WebDriver (session="3de5adf7-a55c-4649-8aaa-85c554dc162a")> started
+INFO ===> Test test_Context_Menu finished at 2024-06-20 21:43:39.490934
